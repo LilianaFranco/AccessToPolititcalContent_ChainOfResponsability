@@ -1,4 +1,4 @@
-# AccessToPolititcalContent_ChainOfRsponsability
+# AccessToPolititcalContent_ChainOfResponsability
 
 ¡Vamos a practicar!
 
